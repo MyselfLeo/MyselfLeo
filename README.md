@@ -1,3 +1,2 @@
-Excellence in excess
-
-I'm a humble French creator.
+# myselfleo
+## French CS Student
