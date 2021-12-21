@@ -4,3 +4,4 @@ __French CS Student__
 * [Website](https://myselfleo.com)
 * [Twitter](https://twitter.com/ItMyselfLeo)
 * [Discord](https://discordapp.com/users/207952145381588992/)
+* [PyPI](https://pypi.org/user/myselfleo/)
